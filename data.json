@@ -1,0 +1,611 @@
+[
+    {
+        "id": 1,
+        "infografis_id": "234",
+        "judul": "Pertumbuhan Ekonomi Jawa Tengah Triwulan IV 2022",
+        "keywords": ["pertumbuhan ekonomi", "triwulan IV 2022", "jawa tengah"],
+        "tahun" : 2022
+    },
+    {
+        "id": 2,
+        "infografis_id": "226",
+        "judul": "Pertumbuhan Ekonomi Jawa Tengah Triwulan IV 2023",
+        "keywords": ["pertumbuhan ekonomi", "triwulan IV 2023", "jawa tengah"],
+        "tahun" : 2023
+    },
+    {
+        "id": 3,
+        "infografis_id": "225",
+        "judul": "Pertumbuhan Ekonomi Jawa Tengah Triwulan IV 2024",
+        "keywords": ["pertumbuhan ekonomi", "triwulan IV 2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 4,
+        "infografis_id": "207",
+        "judul": "Pertumbuhan Ekonomi Jawa Tengah Triwulan I 2024",
+        "keywords": ["pertumbuhan ekonomi", "triwulan I 2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 5,
+        "infografis_id": "181",
+        "judul": "Pertumbuhan Ekonomi Jawa Tengah Triwulan II 2024",
+        "keywords": ["pertumbuhan ekonomi", "triwulan II 2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 6,
+        "infografis_id": "168",
+        "judul": "Pertumbuhan Ekonomi 2019-2023",
+        "keywords": ["pertumbuhan ekonomi", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 7,
+        "infografis_id": "155",
+        "judul": "Pertumbuhan Ekonomi 2020-2022",
+        "keywords": ["pertumbuhan ekonomi", "2020-2019", "jepara"],
+        "tahun" : 2022
+    },
+    {
+        "id": 8,
+        "infografis_id": "129",
+        "judul": "Perbandingan Pertumbuhan Ekonomi",
+        "keywords": ["pertumbuhan ekonomi", "2021", "karesidenan pati"],
+        "tahun" : 2021
+    },
+    {
+        "id": 9,
+        "infografis_id": "21",
+        "judul": "Pertumbuhan Ekonomi se-Karesidenan Pati",
+        "keywords": ["pertumbuhan ekonomi", "2019", "karesidenan pati"],
+        "tahun" : 2019
+    },
+    {
+        "id": 10,
+        "infografis_id": "21",
+        "judul": "Indeks Harga Konsumen (IHK) Jateng Januari 2023",
+        "keywords": ["inflasi", "indeks harga konsumen", "2023", "jawa tengah"],
+        "tahun" : 2023
+    },
+    {
+        "id": 11,
+        "infografis_id": "237",
+        "judul": "Jumlah Penduduk Bekerja dan Pengangguran 2023",
+        "keywords": ["bekerja", "pengangguran", "2023", "jawa tengah"],
+        "tahun" : 2023
+    },
+    {
+        "id": 12,
+        "infografis_id": "249",
+        "judul": "Jumlah Penduduk Kecamatan Kedung Tahun 2023",
+        "keywords": ["jumlah penduduk", "2023", "kedung"],
+        "tahun" : 2023
+    },
+    {
+        "id": 13,
+        "infografis_id": "246",
+        "judul": "Penduduk Bekerja menurut Pendidikan, 2023 lanjutan",
+        "keywords": ["jumlah penduduk", "bekerja", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 14,
+        "infografis_id": "245",
+        "judul": "Penduduk Bekerja menurut Pendidikan, 2023",
+        "keywords": ["jumlah penduduk", "bekerja", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 15,
+        "infografis_id": "240",
+        "judul": "Penduduk Bersekolah dan Mengurus Rumah Tangga",
+        "keywords": ["jumlah penduduk", "jenis kegiatan", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 16,
+        "infografis_id": "239",
+        "judul": "Penduduk Jepara Menurut Kelompok Umur 2023",
+        "keywords": ["jumlah penduduk", "umur", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 17,
+        "infografis_id": "238",
+        "judul": "Jumlah Penduduk Kabupaten Jepara 2023",
+        "keywords": ["jumlah penduduk", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 18,
+        "infografis_id": "14",
+        "judul": "Jumlah Penduduk Respon Sensus penduduk Online",
+        "keywords": ["jumlah penduduk", "2020", "sensus penduduk"],
+        "tahun" : 2020
+    },
+    {
+        "id": 19,
+        "infografis_id": "188",
+        "judul": "Kemiskinan Provinsi Jateng Mar 2024",
+        "keywords": ["kemiskinan", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 20,
+        "infografis_id": "167",
+        "judul": "Perbandingan antar Kabupaten (Kemiskinan) 2023",
+        "keywords": ["kemiskinan", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 21,
+        "infografis_id": "154",
+        "judul": "Perbandingan antar Kabupaten (Kemiskinan) 2022",
+        "keywords": ["kemiskinan", "2022", "jepara"],
+        "tahun" : 2022
+    },
+    {
+        "id": 22,
+        "infografis_id": "131",
+        "judul": "Perbandingan Kemiskinan",
+        "keywords": ["kemiskinan", "2021", "jepara"],
+        "tahun" : 2021
+    },
+    {
+        "id": 23,
+        "infografis_id": "130",
+        "judul": "Kemiskinan Jepara",
+        "keywords": ["kemiskinan", "2021", "jepara"],
+        "tahun" : 2021
+    },
+    {
+        "id": 24,
+        "infografis_id": "50",
+        "judul": "Kemiskinan",
+        "keywords": ["kemiskinan", "2020", "jepara"],
+        "tahun" : 2020
+    },
+    {
+        "id": 25,
+        "infografis_id": "33",
+        "judul": "Kemiskinan Kabupaten Jepara Tahun 2020",
+        "keywords": ["kemiskinan", "2020", "jepara"],
+        "tahun" : 2020
+    },
+    {
+        "id": 26,
+        "infografis_id": "16",
+        "judul": "Angka Kemiskinan Jepara Tahun 2019",
+        "keywords": ["kemiskinan", "2019", "jepara"],
+        "tahun" : 2019
+    },
+    {
+        "id": 27,
+        "infografis_id": "125",
+        "judul": "IPM 2022",
+        "keywords": ["pembangunan manusia", "2021", "jepara"],
+        "tahun" : 2021
+    },
+    {
+        "id": 28,
+        "infografis_id": "124",
+        "judul": "Perbandingan IPM",
+        "keywords": ["pembangunan manusia", "2021", "jepara"],
+        "tahun" : 2021
+    },
+    {
+        "id": 29,
+        "infografis_id": "119",
+        "judul": "IPM",
+        "keywords": ["pembangunan manusia", "2021", "jepara"],
+        "tahun" : 2021
+    },
+    {
+        "id": 30,
+        "infografis_id": "91",
+        "judul": "IPM Kabupaten Jepara Tahun 2021",
+        "keywords": ["pembangunan manusia", "2021", "jepara"],
+        "tahun" : 2021
+    },
+    {
+        "id": 31,
+        "infografis_id": "24",
+        "judul": "Perbandingan IPM se Karesidenan Pati",
+        "keywords": ["pembangunan manusia", "2021", "jepara"],
+        "tahun" : 2021
+    },
+    {
+        "id": 32,
+        "infografis_id": "23",
+        "judul": "IPM Kabupaten Jepara Tahun 2019",
+        "keywords": ["pembangunan manusia", "2019", "jepara"],
+        "tahun" : 2019
+    },
+    {
+        "id": 33,
+        "infografis_id": "251",
+        "judul": "Luas Panen Padi dan Jahe Kecamatan Kedung 2023",
+        "keywords": ["luas panen", "padi", "jahe", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 34,
+        "infografis_id": "219",
+        "judul": "Luas Panen & Produksi Padi Jateng 2023",
+        "keywords": ["luas panen", "padi", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 35,
+        "infografis_id": "98",
+        "judul": "Luas Panen dan Produksi Padi Kabupaten Jepara 2020",
+        "keywords": ["luas panen", "padi", "2020", "jepara"],
+        "tahun" : 2020
+    },
+    {
+        "id": 36,
+        "infografis_id": "247",
+        "judul": "Kondisi Geografi Kecamatan Kedung tahun 2023",
+        "keywords": ["geografi", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 37,
+        "infografis_id": "158",
+        "judul": "Geografi dan Iklim 2023",
+        "keywords": ["geografi", "iklim", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 38,
+        "infografis_id": "145",
+        "judul": "Geografi dan Iklim 2022",
+        "keywords": ["geografi", "iklim", "2022", "jepara"],
+        "tahun" : 2022
+    },
+    {
+        "id": 39,
+        "infografis_id": "159",
+        "judul": "Pemerintahan 2023",
+        "keywords": ["pemerintahan", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 40,
+        "infografis_id": "146",
+        "judul": "Pemerintahan 2022",
+        "keywords": ["pemerintahan", "2022", "jepara"],
+        "tahun" : 2022
+    },
+    {
+        "id": 41,
+        "infografis_id": "208",
+        "judul": "Perkembangan Ketenagakerjaan Jateng Februari 2024",
+        "keywords": ["ketenagakerjaan", "2024", "jateng"],
+        "tahun" : 2024
+    },
+    {
+        "id": 42,
+        "infografis_id": "162",
+        "judul": "Penduduk dan Ketenagakerjaan 2023",
+        "keywords": ["ketenagakerjaan", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 43,
+        "infografis_id": "152",
+        "judul": "Penduduk dan Ketenagakerjaan 2022",
+        "keywords": ["ketenagakerjaan", "2022", "jepara"],
+        "tahun" : 2022
+    },
+    {
+        "id": 44,
+        "infografis_id": "109",
+        "judul": "Penduduk&Ketenagakerjaan",
+        "keywords": ["ketenagakerjaan", "2021", "jepara"],
+        "tahun" : 2021
+    },
+    {
+        "id": 45,
+        "infografis_id": "92",
+        "judul": "Keadaan Ketenagakerjaan Jepara Agustus 2021",
+        "keywords": ["ketenagakerjaan", "2021", "jepara"],
+        "tahun" : 2021
+    },
+    {
+        "id": 46,
+        "infografis_id": "19",
+        "judul": "Perbandingan Ketenagakerjaan di Karesidenan Pati",
+        "keywords": ["ketenagakerjaan", "2019", "jepara"],
+        "tahun" : 2019
+    },
+    {
+        "id": 47,
+        "infografis_id": "18",
+        "judul": "Ketenagakerjaan Kabupaten Jepara Tahun 2019",
+        "keywords": ["ketenagakerjaan", "2019", "jepara"],
+        "tahun" : 2019
+    },
+    {
+        "id": 48,
+        "infografis_id": "165",
+        "judul": "Sosial dan Kesejahteraan Rakyat 2023",
+        "keywords": ["kesejahteraan rakyat", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 49,
+        "infografis_id": "149",
+        "judul": "Sosial dan Kesejahteraan Rakyat 2022",
+        "keywords": ["kesejahteraan rakyat", "2022", "jepara"],
+        "tahun" : 2022
+    },
+    {
+        "id": 50,
+        "infografis_id": "169",
+        "judul": "Pertanian 2023",
+        "keywords": ["pertanian", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 51,
+        "infografis_id": "156",
+        "judul": "Pertanian 2022",
+        "keywords": ["pertanian", "2022", "jepara"],
+        "tahun" : 2022
+    },
+    {
+        "id": 52,
+        "infografis_id": "140",
+        "judul": "Hasil Pencacahan Lengkap ST2023-Tahap1 Kab. Jepara",
+        "keywords": ["pertanian", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 53,
+        "infografis_id": "111",
+        "judul": "Pertanian",
+        "keywords": ["pertanian", "2021", "jepara"],
+        "tahun" : 2021
+    },
+    {
+        "id": 54,
+        "infografis_id": "235",
+        "judul": "Perkembangan Pariwisata Jawa Tengah Desember 2022",
+        "keywords": ["pariwisata", "2022", "jawa tengah"],
+        "tahun" : 2022
+    },
+    {
+        "id": 55,
+        "infografis_id": "229",
+        "judul": "Perkembangan Pariwisata Jawa Tengah Agustus 2024",
+        "keywords": ["pariwisata", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 56,
+        "infografis_id": "221",
+        "judul": "Perkembangan Pariwisata Jawa Tengah Januari 2024",
+        "keywords": ["pariwisata", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 57,
+        "infografis_id": "221",
+        "judul": "Perkembangan Pariwisata Jawa Tengah Maret 2024",
+        "keywords": ["pariwisata", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 58,
+        "infografis_id": "210",
+        "judul": "Perkembangan Pariwisata Jawa Tengah Februari 2024",
+        "keywords": ["pariwisata", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 59,
+        "infografis_id": "202",
+        "judul": "Perkembangan Pariwisata Jawa Tengah April 2024",
+        "keywords": ["pariwisata", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 59,
+        "infografis_id": "190",
+        "judul": "Perkembangan Pariwisata Jawa Tengah Mei 2024",
+        "keywords": ["pariwisata", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 60,
+        "infografis_id": "183",
+        "judul": "Perkembangan Pariwisata Jawa Tengah Juni 2024",
+        "keywords": ["pariwisata", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 61,
+        "infografis_id": "178",
+        "judul": "Perkembangan Pariwisata Jawa Tengah Juli 2024",
+        "keywords": ["pariwisata", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 62,
+        "infografis_id": "163",
+        "judul": "Pariwisata 2023",
+        "keywords": ["pariwisata", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 63,
+        "infografis_id": "236",
+        "judul": "Perkembangan Transportasi Jateng Desember 2023",
+        "keywords": ["transportasi", "2023", "jawa tengah"],
+        "tahun" : 2023
+    },
+    {
+        "id": 64,
+        "infografis_id": "232",
+        "judul": "Perkembangan Transportasi Jateng Desember 2022",
+        "keywords": ["transportasi", "2022", "jawa tengah"],
+        "tahun" : 2022
+    },
+    {
+        "id": 65,
+        "infografis_id": "230",
+        "judul": "Perkembangan Transportasi Jateng Agustus 2024",
+        "keywords": ["transportasi", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 66,
+        "infografis_id": "220",
+        "judul": "Perkembangan Transportasi Jateng Januari 2024",
+        "keywords": ["transportasi", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 67,
+        "infografis_id": "215",
+        "judul": "Perkembangan Transportasi Jateng Februari 2024",
+        "keywords": ["transportasi", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 68,
+        "infografis_id": "209",
+        "judul": "Perkembangan Transportasi Jateng Maret 2024",
+        "keywords": ["transportasi", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 69,
+        "infografis_id": "201",
+        "judul": "Perkembangan Transportasi Jateng April 2024",
+        "keywords": ["transportasi", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 70,
+        "infografis_id": "189",
+        "judul": "Perkembangan Transportasi Jateng Mei 2024",
+        "keywords": ["transportasi", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 71,
+        "infografis_id": "182",
+        "judul": "Perkembangan Transportasi Jateng Juni 2024",
+        "keywords": ["transportasi", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 72,
+        "infografis_id": "179",
+        "judul": "Perkembangan Transportasi Jateng Juli 2024",
+        "keywords": ["transportasi", "2024", "jawa tengah"],
+        "tahun" : 2024
+    },
+    {
+        "id": 73,
+        "infografis_id": "157",
+        "judul": "Transportasi dan Komunikasi 2023",
+        "keywords": ["komunikasi", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 74,
+        "infografis_id": "144",
+        "judul": "Transportasi dan Komunikasi 2022",
+        "keywords": ["komunikasi", "2022", "jepara"],
+        "tahun" : 2022
+    },
+    {
+        "id": 75,
+        "infografis_id": "114",
+        "judul": "Komunikasi",
+        "keywords": ["komunikasi", "2021", "jepara"],
+        "tahun" : 2021
+    },
+    {
+        "id": 76,
+        "infografis_id": "253",
+        "judul": "Jumlah Koperasi Di Kecamatan Kedung tahun 2023",
+        "keywords": ["koperasi", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 77,
+        "infografis_id": "160",
+        "judul": "Jumlah Koperasi 2023",
+        "keywords": ["koperasi", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 78,
+        "infografis_id": "147",
+        "judul": "Jumlah Koperasi 2022",
+        "keywords": ["koperasi", "2022", "jepara"],
+        "tahun" : 2022
+    },
+    {
+        "id": 79,
+        "infografis_id": "115",
+        "judul": "Koperasi",
+        "keywords": ["koperasi", "2021", "jepara"],
+        "tahun" : 2021
+    },
+    {
+        "id": 80,
+        "infografis_id": "187",
+        "judul": "Tingkat Ketimp Pengeluaran Penddk Jateng Mar 2024",
+        "keywords": ["pengeluaran penduduk", "2024", "jepara"],
+        "tahun" : 2024
+    },
+    {
+        "id": 81,
+        "infografis_id": "166",
+        "judul": "Pengeluaran Penduduk 2023",
+        "keywords": ["pengeluaran penduduk", "2023", "jepara"],
+        "tahun" : 2023
+    },
+    {
+        "id": 82,
+        "infografis_id": "153",
+        "judul": "Pengeluaran Penduduk 2022",
+        "keywords": ["pengeluaran penduduk", "2022", "jepara"],
+        "tahun" : 2022
+    },
+    {
+        "id": 83,
+        "infografis_id": "116",
+        "judul": "Pengeluaran Penduduk",
+        "keywords": ["pengeluaran penduduk", "2022", "jepara"],
+        "tahun" : 2022
+    },
+    {
+        "id": 84,
+        "infografis_id": "197",
+        "judul": "Perkembangan Ekspor & Import Jateng Agustus 2024",
+        "keywords": ["ekspor", "impor",  "2022", "jawa tengah"],
+        "tahun" : 2022
+    },
+    {
+        "id": 85,
+        "infografis_id": "121",
+        "judul": "Perbandingan Penduduk",
+        "keywords": ["penduduk", "pertumbuhan", "karesidenan pati"],
+        "tahun" : 2022
+    },
+    {
+        "id": 86,
+        "infografis_id": "123",
+        "judul": "Perbandingan TPT & TPAK",
+        "keywords": ["tpt", "tpak", "jawa tengah"],
+        "tahun" : 2024
+    }
+]
